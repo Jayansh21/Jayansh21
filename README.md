@@ -87,6 +87,7 @@
 - 🎨 Modern responsive web interface
 - 🧠 KNN machine learning model for accurate recognition
 
+---
 
 ### 🏥 HealthHub - Personalized Healthcare Management Platform
 🩺 **AI-powered healthcare ecosystem** built with MERN stack
