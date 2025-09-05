@@ -34,7 +34,6 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -107,9 +106,3 @@
 
 ---
 
-*Combining MERN Stack and AI/ML to build technology that makes healthcare accessible and intelligent* 🏥🤖
-
-
-**⭐ From [Jayansh21](https://github.com/Jayansh21) with ❤️**
-
-</div>
