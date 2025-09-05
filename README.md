@@ -13,7 +13,7 @@
 - 🎓 **Student** passionate about **Software Development** and **Artificial Intelligence**
 - 💻 **Full Stack Developer** with expertise in **Python**, **Flask**, and **Web Technologies**
 - 🤖 **AI Enthusiast** working on **Computer Vision** and **Machine Learning** projects
-- 🌱 Currently learning **Advanced ML Algorithms** and **Cloud Technologies**
+- 🌱 Currently learning **Advanced ML Algorithms** and **Data structures and Algortihms**
 - 🎯 Looking to collaborate on **Open Source Projects** and **Innovative Solutions**
 - ⚡ Fun fact: I love turning **complex problems** into **elegant solutions**!
 
@@ -86,6 +86,18 @@
 - 📊 Automated attendance logging and CSV export
 - 🎨 Modern responsive web interface
 - 🧠 KNN machine learning model for accurate recognition
+
+
+### 🏥 HealthHub - Personalized Healthcare Management Platform
+🩺 **AI-powered healthcare ecosystem** built with MERN stack
+- 💓 **Health Tracking** – Monitor heart rate, steps, sleep, calories, sugar levels, and more
+- 🤖 **Personalized Recommendations** – AI-driven health advice tailored to your health data
+- 📊 **Data Visualization** – Track progress with easy-to-read graphs and charts
+- 📱 **Device Integration** – Sync with wearables and other fitness apps for accurate tracking
+- 👨‍⚕️ **Doctor & Patient Portals** – Separate dashboards for healthcare providers and patients
+- 💬 **Online Chat & Video Calls** – Real-time communication between doctors and patients
+- 📅 **Appointment Booking** – Smart scheduling system with automated reminders
+- 🏥 **Complete Healthcare Solution** – End-to-end platform for comprehensive health management
 
 ---
 
