@@ -90,49 +90,9 @@
 
 ---
 
-## 💼 What I'm Working On
-
-- 🔬 **Research**: Advanced Computer Vision techniques for real-world applications
-- 🌐 **Development**: Building scalable web applications with modern frameworks
-- 📚 **Learning**: Cloud computing, DevOps, and advanced ML algorithms
-- 🤝 **Collaboration**: Contributing to open-source projects and helping fellow developers
-
----
-
-## 🎯 Goals for 2024
-
-- [ ] 🚀 Contribute to **5+ open-source projects**
-- [ ] 📱 Build a **mobile application** using React Native/Flutter
-- [ ] ☁️ Learn **AWS/Azure** cloud services
-- [ ] 🏆 Participate in **hackathons** and coding competitions
-- [ ] 📝 Write **technical blogs** and tutorials
-- [ ] 🎓 Complete advanced **Machine Learning** certifications
-
----
-
 ## 📈 Activity Graph
 
 [![Jayansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayansh21&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jayansh21&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎨 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Jayansh21/Jayansh21/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
@@ -141,23 +101,14 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-jjayansh1021%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jjayansh1021@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayansh-jain)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jayansh_jain)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jayansh.jain)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jayansh-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayansh1021/)
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💫 "The best way to find yourself is to lose yourself in the service of others." – Mahatma Gandhi
-
 *Combining MERN Stack and AI/ML to build technology that makes healthcare accessible and intelligent* 🏥🤖
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayansh21&style=for-the-badge&color=brightgreen)
-![Followers](https://img.shields.io/github/followers/Jayansh21?style=for-the-badge&color=orange&labelColor=blue)
 
 **⭐ From [Jayansh21](https://github.com/Jayansh21) with ❤️**
 
