@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Jayansh Jain!
 
----
-
 ## 🚀 About Me
 
 - 🎓 **Student** passionate about **Software Development** and **Artificial Intelligence**
@@ -66,36 +64,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-[![AttendWise](https://github-readme-stats.vercel.app/api/pin/?username=Jayansh21&repo=AttendWise&theme=tokyonight&hide_border=true)](https://github.com/Jayansh21/AttendWise)
-
-</div>
-
-### 🌟 AttendWise - Smart Attendance Management System
-🤖 **AI-powered face recognition attendance system** built with Python, Flask, and OpenCV
-- ⚡ Real-time face detection and recognition
-- 📊 Automated attendance logging and CSV export
-- 🎨 Modern responsive web interface
-- 🧠 KNN machine learning model for accurate recognition
-
----
-
-### 🏥 HealthHub - Personalized Healthcare Management Platform
-🩺 **AI-powered healthcare ecosystem** built with MERN stack
-- 💓 **Health Tracking** – Monitor heart rate, steps, sleep, calories, sugar levels, and more
-- 🤖 **Personalized Recommendations** – AI-driven health advice tailored to your health data
-- 📊 **Data Visualization** – Track progress with easy-to-read graphs and charts
-- 📱 **Device Integration** – Sync with wearables and other fitness apps for accurate tracking
-- 👨‍⚕️ **Doctor & Patient Portals** – Separate dashboards for healthcare providers and patients
-- 💬 **Online Chat & Video Calls** – Real-time communication between doctors and patients
-- 📅 **Appointment Booking** – Smart scheduling system with automated reminders
-- 🏥 **Complete Healthcare Solution** – End-to-end platform for comprehensive health management
-
----
-
 ## 📈 Activity Graph
 
 [![Jayansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayansh21&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -111,5 +79,4 @@
 
 </div>
 
----
 
